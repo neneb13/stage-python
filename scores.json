@@ -1,0 +1,12 @@
+{
+    "nom": "salma",
+    "niveau": "facile",
+    "nombre essaies": 5,
+    "essaies": [
+        25,
+        15,
+        10,
+        5,
+        6
+    ]
+}

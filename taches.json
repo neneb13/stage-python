@@ -1,0 +1,19 @@
+{
+    "taches": [
+        {
+            "titre": "nettoyer",
+            "description": "vaiselle",
+            "statut": "terminee"
+        },
+        {
+            "titre": "etudier",
+            "description": "revision proba et statistiques",
+            "statut": "a faire"
+        },
+        {
+            "titre": "ranger bazar",
+            "description": "rager chambre",
+            "statut": "a faire"
+        }
+    ]
+}
